@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classroom>
+	<teacher id="one">
+		<name>PrimerNombre</name>
+		<lastname>PrimerApellido</lastname>
+		<telephone>123-123-1234</telephone>
+	</teacher>
+	<teacher id="two">
+		<name>SegundoNombre</name>
+		<lastname>SegundoApellido</lastname>
+		<telephone>321-321-3210</telephone>
+	</teacher>
+</classroom>
